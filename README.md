@@ -19,6 +19,6 @@ This repository contains code to build an interactive dashboard exploring the Be
 4. Display the sample metadata, showcasing an individual's demographic information.
 5. Present each key-value pair from the metadata JSON object on the page.
 6. Ensure the plots update dynamically when a new sample is selected. Feel free to create a customized layout for your dashboard.
-7. 
+
 ## **Conclusion**
 By following these steps, you'll have a fully functional dashboard with bar and bubble graphs, displaying data for selected individuals. Explore different individuals to observe variations in the data.
